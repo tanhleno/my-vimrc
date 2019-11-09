@@ -1,2 +1,2 @@
 # MyVimrc
-A repository to save my configurations of editor vim.
+A repository to save my vim editor configurations.
